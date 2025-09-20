@@ -2,7 +2,7 @@
 
 ### 1. Czy ten zbiór paradygmatów jest spójny i niesprzeczny?
 
-**Odpowiedź brzmi: Tak, ten zbiór jest nie tylko spójny, ale wręcz synergiczny.**
+** Odpowiedź brzmi: Tak, ten zbiór jest nie tylko spójny, ale wręcz synergiczny.**
 
 Nie są to przypadkowe idee, ale warstwy jednego, kompletnego systemu myślowego. Wykluczają się tak mało, jak fundamenty budynku wykluczają się z jego dachem – w rzeczywistości, jedno wymaga drugiego.
 
