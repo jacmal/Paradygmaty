@@ -211,4 +211,3 @@ Symbioza Poznawcza to nie technological trend, ale **fundamentalna zmiana w natu
 Sukces w tej new reality zależy od naszej ability to projektować nie just lepsze algorytmy, ale **lepsze połączenia między umysłami**. To wymaga głębokiego zrozumienia zarówno ludzkiej psychologii, jak i capabilities AI, oraz pokory to acknowledge że żaden komponent nie jest samodzielnie omnipotent.
 
 **Ostatecznie, Symbioza Poznawcza to projekt humanistyczny - o to, jak rozszerzać ludzkie możliwości przy zachowaniu naszej agency, godności i wartości.**
-```
