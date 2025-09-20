@@ -81,6 +81,7 @@ Paradygmat opiera się na:
 #### Wzorzec 1: Prompt jako Funkcja
 **Problem:** Jednorazowe prompty prowadzą do duplikacji i niespójności.
 **Rozwiązanie:** Traktuj prompt jako parametryzowaną funkcję:
+
 ```python
 def analyze_sentiment(text, context, detail_level="standard"):
     return f"""
@@ -94,6 +95,8 @@ def analyze_sentiment(text, context, detail_level="standard"):
     - key_phrases (array)
     - reasoning (krótkie wyjaśnienie)
     """
+```python
+
 Zastosowanie: Reużywalność, testowanie, wersjonowanie.
 
 Wzorzec 2: Chain of Thought Kompilacja
