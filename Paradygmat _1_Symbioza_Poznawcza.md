@@ -1,6 +1,3 @@
-Oto finalny plik Markdown, gotowy do skopiowania. Zawiera on całą treść z uwzględnieniem stylistyki i formatowania zgodnego z Protokołem "Architekta".
-
-```markdown
 ### 🧠 Paradygmat 1: Symbioza Poznawcza - Rozbudowanie
 
 ---
